@@ -1,0 +1,19 @@
+# MPLAB X IDE Project
+**/~*.*
+**/build/
+**/debug/
+**/dist/
+**/disassembly/
+**/.generated_files/
+**/nbproject/private/
+**/nbproject/*.mk
+**/nbproject/*.bash
+**/nbproject/Makefile-genesis.properties
+**/queuelogs/
+
+# MCC specific
+**/*mc3.bak*
+**/*.bak*/
+
+# Large Files
+*.zip
